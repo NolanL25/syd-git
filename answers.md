@@ -31,3 +31,14 @@ Non, comme nous avons copié ce dépôt il est resté dans l'état où nous l'av
 ### Task 7
 
 ![Gitgraph](img/gitgraph.svg)
+
+1. Nom de la branche où l'on fait le commit
+2. Il s'agis de l'ID unique de notre commit
+3. Texte écrit par l'utilisateur lors du commit
+4. Auteur du commit
+5. Tags
+6.Merge de la branche develop dans la branche devlopp
+7. Création d'une nouvelle branche feature-auth
+8. Merge de la branche develop dans la branche main
+9. Branche develop
+10. Branche main
