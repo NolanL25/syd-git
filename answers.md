@@ -14,7 +14,7 @@ Nous pouvons aussi observer dans le Summary ce qui a été modifié. Le texte en
 
 4. Non, Github n'est pas à jour avec les modifications.
 ### Task 3
-
+Nous pouvons voir qu'il est marqué que nous avons un "Untracked Files", il s'agit du fichier que nous avons fait (README.md)
 ### Task 4
 
 ### Task 5
